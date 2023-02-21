@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class lessons {
+class Lessons {
     public static void main(String[] args){
         Solution sol = new Solution();
 
