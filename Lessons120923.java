@@ -1,16 +1,16 @@
 import java.util.Arrays;
 
-public class Test {
+public class Lessons120923 {
     public static void main(String[] args) {
 
-        Solution s = new Solution();
+        Solution120923 s = new Solution120923();
 
         System.out.println(Arrays.toString(s.solution(5, 15)));
 
     }
 }
 
-class Solution {
+class Solution120923 {
     public int[] solution(int num, int total) {
         int[] answer = new int[num];
         int start = total/num - (num-1) / 2;
