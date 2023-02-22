@@ -1,14 +1,14 @@
 import java.util.Arrays;
 
-class Lessons {
+class Lessons120808 {   // 분수의 덧셈
     public static void main(String[] args){
-        Solution sol = new Solution();
+        Solution120808 sol = new Solution120808();
 
         System.out.println(Arrays.toString(sol.solution(9, 2, 1, 3)));
     }
 }
 
-class Solution {
+class Solution120808 {
     public int[] solution(int numer1, int denom1, int numer2, int denom2) {
         int n = numer1 * denom2 + numer2 * denom1;
         int d = denom1 * denom2;
