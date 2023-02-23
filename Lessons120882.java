@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Lessons120882 {
+public class Lessons120882 {    // 등수 매기기
 }
 
 
