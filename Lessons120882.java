@@ -1,14 +1,10 @@
 import java.util.Arrays;
 
-public class Test {
-    public static void main(String[] args) {
-
-        Solution s = new Solution();
-
-    }
+public class Lessons120882 {
 }
 
-class Solution {
+
+class Solution120882 {
     public int[] solution(int[][] score) {
         int[] answer = new int[score.length];
         Arrays.fill(answer, 1);
