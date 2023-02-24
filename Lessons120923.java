@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Lessons120923 {
+public class Lessons120923 {    // 연속된 수의 합
     public static void main(String[] args) {
 
         Solution120923 s = new Solution120923();
